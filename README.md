@@ -1,7 +1,10 @@
-Chatbot Bantuan Hukum Masyarakat Awam Berbasis RAG, LangChain, dan LangGraph
-Deskripsi Proyek
+# Chatbot Bantuan Hukum Masyarakat Awam Berbasis RAG, LangChain, dan LangGraph
 
-Proyek ini merupakan implementasi chatbot bantuan hukum yang dikembangkan untuk membantu masyarakat memperoleh informasi hukum secara lebih mudah dan cepat. Sistem memanfaatkan pendekatan Retrieval-Augmented Generation (RAG) sehingga jawaban yang diberikan tidak hanya berasal dari kemampuan model bahasa, tetapi juga didukung oleh dokumen hukum yang telah diproses sebelumnya.
+## Deskripsi Proyek
+
+Proyek ini merupakan implementasi chatbot bantuan hukum yang dikembangkan untuk membantu masyarakat memperoleh informasi hukum secara lebih mudah dan cepat.
+
+... Sistem memanfaatkan pendekatan Retrieval-Augmented Generation (RAG) sehingga jawaban yang diberikan tidak hanya berasal dari kemampuan model bahasa, tetapi juga didukung oleh dokumen hukum yang telah diproses sebelumnya.
 
 Pada proyek ini digunakan dua sumber dokumen hukum, yaitu Undang-Undang Ketenagakerjaan dan Undang-Undang Perlindungan Konsumen. Pengguna dapat mengajukan pertanyaan menggunakan bahasa alami, kemudian sistem akan mencari bagian dokumen yang relevan sebelum menghasilkan jawaban.
 
